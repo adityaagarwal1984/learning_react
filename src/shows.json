@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "title": "Stranger Things",
+        "year": 2016,
+        "description": "A group of young friends in a small town uncover a series of supernatural mysteries involving secret government experiments, a mysterious girl with powers, and a parallel dimension called the Upside Down.",
+        "genre": ["Drama", "Fantasy", "Horror"],
+        "seasons": 4,
+        "rating": 8.7,
+        "language": "English",
+        "creator": "The Duffer Brothers",
+        "network": "Netflix",
+        "awards": [
+            "Screen Actors Guild Award for Outstanding Performance by an Ensemble in a Drama Series",
+            "Primetime Emmy Awards"
+        ],
+        "trailer": "https://www.youtube.com/watch?v=b9EkMc79ZSU",
+        "cast": [
+            "Millie Bobby Brown",
+            "Finn Wolfhard",
+            "David Harbour",
+            "Winona Ryder",
+            "Gaten Matarazzo"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Money Heist",
+        "year": 2017,
+        "description": "A criminal mastermind known as 'The Professor' recruits eight skilled thieves to carry out an ambitious plan: to infiltrate the Royal Mint of Spain and print billions of euros, all while dealing with hostages and law enforcement.",
+        "genre": ["Crime", "Thriller", "Drama"],
+        "seasons": 5,
+        "rating": 8.3,
+        "language": "Spanish",
+        "creator": "Álex Pina",
+        "network": "Antena 3, Netflix",
+        "awards": ["International Emmy Award for Best Drama Series"],
+        "trailer": "https://www.youtube.com/watch?v=ZAXA1DV4dtI",
+        "cast": [
+            "Álvaro Morte",
+            "Úrsula Corberó",
+            "Itziar Ituño",
+            "Pedro Alonso",
+            "Miguel Herrán"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg"
+    },
+    {
+        "id": 3,
+        "title": "Breaking Bad",
+        "year": 2008,
+        "description": "A high school chemistry teacher turned methamphetamine producer partners with a former student to secure his family's future, while battling crime and his own moral decline.",
+        "genre": ["Crime", "Drama", "Thriller"],
+        "seasons": 5,
+        "rating": 9.5,
+        "language": "English",
+        "creator": "Vince Gilligan",
+        "network": "AMC",
+        "awards": [
+            "16 Primetime Emmy Awards",
+            "2 Golden Globe Awards"
+        ],
+        "trailer": "https://www.youtube.com/watch?v=HhesaQXLuRY",
+        "cast": [
+            "Bryan Cranston",
+            "Aaron Paul",
+            "Anna Gunn",
+            "Dean Norris",
+            "Betsy Brandt"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg"
+    },
+    {
+        "id": 4,
+        "title": "The Witcher",
+        "year": 2019,
+        "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys through a turbulent world where people often prove more wicked than beasts. Based on the best-selling fantasy series.",
+        "genre": ["Fantasy", "Drama", "Action"],
+        "seasons": 3,
+        "rating": 8.2,
+        "language": "English",
+        "creator": "Lauren Schmidt Hissrich",
+        "network": "Netflix",
+        "awards": ["Saturn Award for Best Streaming Fantasy Series"],
+        "trailer": "https://www.youtube.com/watch?v=ndl1W4ltcmg",
+        "cast": [
+            "Henry Cavill",
+            "Anya Chalotra",
+            "Freya Allan",
+            "Joey Batey",
+            "MyAnna Buring"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/7vjaCdMw15FEbXyLQTVa04URsPm.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Dark",
+        "year": 2017,
+        "description": "A family saga with a supernatural twist, set in a German town where the disappearance of two young children exposes the relationships among four families and uncovers a time travel conspiracy.",
+        "genre": ["Science Fiction", "Thriller", "Drama", "Mystery"],
+        "seasons": 3,
+        "rating": 8.8,
+        "language": "German",
+        "creator": "Baran bo Odar, Jantje Friese",
+        "network": "Netflix",
+        "awards": [
+            "Grimme-Preis for Fiction",
+            "German Television Academy Award"
+        ],
+        "trailer": "https://www.youtube.com/watch?v=rrwycJ08PSA",
+        "cast": [
+            "Louis Hofmann",
+            "Karoline Eichhorn",
+            "Lisa Vicari",
+            "Maja Schöne",
+            "Oliver Masucci"
+        ],
+        "image": "https://image.tmdb.org/t/p/w500/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg"
+    }
+]
